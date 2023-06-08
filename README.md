@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maria and im a front-end developer studen at Noroff. 
+My name is Maria and im a front-end developer student at Noroff. I enjoy working with UI/UX desing.
 
 
 - 🔭 I’m currently working on my portofolio 
